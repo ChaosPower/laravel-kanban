@@ -1,0 +1,14 @@
+{
+    "name": "chaospower/laravel-kanban",
+    "description": "Laravel Kanban",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Randy Glenn Aguirre",
+            "email": "rgat.randy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
